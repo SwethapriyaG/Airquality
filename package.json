@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bleuio": "^1.0.9",
+    "parcel": "^2.8.0"
+  },
+  "scripts": {
+    "start":"parcel index.html"
+  }
+}
